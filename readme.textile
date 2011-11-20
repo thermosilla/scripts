@@ -1,0 +1,10 @@
+h1. Scripts
+
+h2. textile2html.py
+
+This script converts a textile markup file to an html file, using the "python-textile":https://github.com/chrisdrackett/python-textile library from "Chris Drackett":https://github.com/chrisdrackett
+
+h3. TODO
+
+* Create a GUI
+* Integrate to *Gedit*
