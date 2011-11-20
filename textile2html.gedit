@@ -1,0 +1,13 @@
+#!/bin/sh
+# [Gedit Tool]
+# Name=textile2html
+# Shortcut=<Shift><Control>t
+# Languages=
+# Applicability=all
+# Output=new-document
+# Input=document
+# Save-files=nothing
+
+#Change ~/.scripts/ with the script path 
+
+python ~/.scripts/textile2html.py -f $GEDIT_CURRENT_DOCUMENT_PATH -t standar
